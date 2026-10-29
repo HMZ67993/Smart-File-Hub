@@ -1,1 +1,14 @@
-
+{
+  "version": "1.0",
+  "url": "https://hmzbytes.gumroad.com/l/Smart-File-Hub",
+  "notes": "بداية الإطلاق على Gumroad",
+  "payment": {
+    "price": "400",
+    "bank_name": "CIB",
+    "bank_account": "100040309367",
+    "instapay": "01150362890",
+    "wallet": "01557783633",
+    "whatsapp": "201150362890"
+  },
+  "payment_sig": "9VRObjAGW8isFcoVaiKtFP0DKCcVp_mhsA0PXWSaNKZIvfMJ8h3zenRVFr3mHyT0c-9UHVXbcjW96YrETdn1Bw"
+}
